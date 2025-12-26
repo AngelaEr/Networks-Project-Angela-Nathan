@@ -1,0 +1,11 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,HTTP,client_browser,web_server,GET /index.html HTTP/1.1,0.100
+2,HTTP,web_server,client_browser,HTTP/1.1 200 OK (HTML Page),0.120
+3,HTTP,client_browser,web_server,GET /style.css HTTP/1.1,0.150
+4,HTTP,web_server,client_browser,HTTP/1.1 200 OK (CSS File),0.180
+5,HTTP,client_browser,web_server,GET /images/logo.png HTTP/1.1,0.200
+6,HTTP,web_server,client_browser,HTTP/1.1 200 OK (Image Data),0.250
+7,HTTP,client_browser,web_server,POST /login HTTP/1.1,0.500
+8,HTTP,web_server,client_browser,HTTP/1.1 200 OK (Login Success),0.550
+9,HTTP,client_browser,web_server,GET /dashboard HTTP/1.1,0.600
+10,HTTP,web_server,client_browser,HTTP/1.1 200 OK (Dashboard Page),0.620
