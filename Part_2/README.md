@@ -9,6 +9,9 @@
 cd ChatApp
 python3 run.py
 ```
+
+![Server Running](ChatApp/docs/run_py_example.png)
+
 Open the URL shown in terminal. **Done!**
 
 **Requirements:** Python 3.8+ and a browser. No pip packages needed.
@@ -47,6 +50,8 @@ ChatApp/
 │   ├── style.css              # Styling
 │   └── script.js              # WebSocket client
 └── docs/
+    ├── AI_Workflow/           # Development history (1-7 docs)
+    └── *.png                  # Screenshots
 ```
 
 ---
@@ -91,13 +96,11 @@ BrainStorm → Planner → Builder → Checker → (iterate if needed)
 
 ### Documentation
 
-The `AI_Workflow/` folder contains the full development history:
+The `docs/AI_Workflow/` folder contains the full development history:
 - `1.BRAINSTORM_ChatApp.md` - Initial ideas exploration
 - `2.BLUEPRINT.md` - Architecture plan
 - `3-7.` - Task distribution, reviews, fixes
 - `Status.md` - Project status tracker
-
-Each session with AI agents is documented for transparency and learning.
 
 ---
 
