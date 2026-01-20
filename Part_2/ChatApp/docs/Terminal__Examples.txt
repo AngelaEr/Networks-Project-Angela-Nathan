@@ -1,0 +1,54 @@
+[+] New connection from ('10.100.102.12', 56090)
+[+] New connection from ('10.100.102.12', 56089)
+[+] New connection from ('10.100.102.12', 56091)
+[HTTP] GET /
+[-] Connection closed: ('10.100.102.12', 56090)
+[+] New connection from ('10.100.102.12', 56094)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.12', 56094)
+[WS] Handshake complete, accept key: XocZ98ukQx6TCarSvNzl...
+[MSG] Natan|JOIN|19:50:03
+[+] Client added: Natan (Total: 1)
+[+] New connection from ('10.100.102.9', 52791)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.9', 52791)
+[WS] Handshake complete, accept key: qmIJj2wRx70azE7KLH7Q...
+[MSG] Jeff|JOIN|19:50:13
+[+] Client added: Jeff (Total: 2)
+[+] New connection from ('10.100.102.9', 52792)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.9', 52792)
+[WS] Handshake complete, accept key: t3tjRN0NBWbKurf7WtBY...
+[MSG] Natan’s phone|JOIN|19:50:19
+[+] Client added: Natan’s phone (Total: 3)
+[+] New connection from ('10.100.102.15', 49764)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.15', 49764)
+[WS] Handshake complete, accept key: 3Yw/oMknig020xGQmqzp...
+[MSG] angela|JOIN|19:50:38
+[+] Client added: angela (Total: 4)
+[-] Connection closed: ('10.100.102.12', 56089)
+[-] Connection closed: ('10.100.102.12', 56091)
+[MSG] angela|Hello|19:50:47
+[MSG] Natan’s phone|Wassup|19:50:58
+[+] New connection from ('10.100.102.16', 52025)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.16', 52025)
+[WS] Handshake complete, accept key: cB2sHo6lXDrjVYmofLDA...
+[MSG] Tony|JOIN|19:50:59
+[+] Client added: Tony (Total: 5)
+[MSG] Tony|Hey|19:51:05
+[MSG] Natan|Hi|19:51:08
+[MSG] Natan’s phone|LEAVE|19:51:14
+[WS] Close frame received
+[-] Client removed: Natan’s phone (Total: 4)
+[-] Connection closed: ('10.100.102.9', 52792)
+[+] New connection from ('10.100.102.9', 52793)
+[HTTP] GET /
+[WS] WebSocket upgrade from ('10.100.102.9', 52793)
+[WS] Handshake complete, accept key: 3xfZtHWToQ6pM9MY8HJI...
+[MSG] Natan’s phone|JOIN|19:51:18
+[+] Client added: Natan’s phone (Total: 5)
+[-] Error decoding frame: [WinError 10054] An existing connection was forcibly closed by the remote host
+[-] Client removed: Tony (Total: 4)
+[-] Connection closed: ('10.100.102.16', 52025)

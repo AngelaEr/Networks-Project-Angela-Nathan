@@ -1,9 +1,5 @@
 """
-מודול HTTP - HTTP Handler Module
-Group_AN - פרויקט גמר ברשתות תקשורת מחשבים
-
 מנתח בקשות HTTP ומגיש קבצים סטטיים (HTML, CSS, JS)
-ללא frameworks - מימוש טהור ברמת socket
 """
 
 import os

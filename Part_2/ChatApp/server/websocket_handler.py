@@ -1,7 +1,4 @@
 """
-מודול WebSocket - WebSocket Handler Module
-Group_AN - פרויקט גמר ברשתות תקשורת מחשבים
-
 מימוש פרוטוקול WebSocket לפי RFC 6455
 כולל: handshake, קידוד/פענוח frames, masking
 """
