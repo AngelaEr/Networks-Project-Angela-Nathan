@@ -11,6 +11,8 @@ Network traffic capture and analysis using Jupyter Notebook
 - 📊 CSV data file
 - 📓 Jupyter notebook
 - 🔍 Wireshark packet capture file
+- 📄 Traffic analysis document (Hebrew)
+- 🖼️ Wireshark screenshots
 
 #### **Part 2: Server-Client Application**
 Custom networking application

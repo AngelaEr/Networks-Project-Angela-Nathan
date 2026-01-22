@@ -51,7 +51,9 @@ ChatApp/
 │   └── script.js              # WebSocket client
 └── docs/
     ├── AI_Workflow/           # Development history (1-7 docs)
-    └── *.png                  # Screenshots
+    ├── Screenshots/           # Wireshark & app screenshots
+    ├── traffic_analysis.docx  # Traffic analysis (Hebrew)
+    └── chatapp_traffic.pcapng # Wireshark capture file
 ```
 
 ---
